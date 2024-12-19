@@ -1,0 +1,7 @@
+list of hotels
+hotel details
+reservation confirmation
+
+classes:
+hotel
+reservation
